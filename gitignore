@@ -1,0 +1,8 @@
+```
+__pycache__/
+*.pyc
+model_cache/
+checkpoints/
+.vscode/
+.DS_Store
+```
