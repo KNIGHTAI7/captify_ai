@@ -4,7 +4,7 @@ AI-powered image captioning using Vision Transformer (ViT) and GPT-2.
 
 ## 🚀 Live Demo
 
-Try it on Streamlit Cloud! (Link will be available after deployment)
+https://captifyai-je2x4qhasqvobpxopsbuf2.streamlit.app/
 
 ## 🧠 Model Architecture
 
