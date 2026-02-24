@@ -1,4 +1,4 @@
-# 🖼️ CaptiFy AI
+# 🤖 CaptiFy AI
 
 AI-powered image captioning using Vision Transformer (ViT) and GPT-2.
 
