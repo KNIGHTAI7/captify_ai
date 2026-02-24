@@ -106,7 +106,7 @@ def generate_caption(image, model, tokenizer, vit_processor, device, num_beams, 
 # Main app
 def main():
     # Header
-    st.markdown('<h1 class="main-header">🖼️ CaptiFy AI</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🤖 CaptiFy AI</h1>', unsafe_allow_html=True)
     st.markdown('<p class="sub-header">Upload any image and let AI describe it for you!</p>', unsafe_allow_html=True)
     
     # Load model
