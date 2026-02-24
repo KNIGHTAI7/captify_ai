@@ -1,0 +1,16 @@
+torch
+torchvision
+transformers
+Pillow
+streamlit
+gdown
+```
+
+**`.gitignore`:**
+```
+__pycache__/
+*.pyc
+model_cache/
+checkpoints/
+.vscode/
+.DS_Store
